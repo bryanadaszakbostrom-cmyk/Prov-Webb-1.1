@@ -10,7 +10,9 @@ header, nav
     justify-content: space-evenly;
     font-size: 20px;
 }
-.Aik
+.aik
 {
-    padding-left: 30px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
 }
