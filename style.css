@@ -2,3 +2,15 @@ body
 {
     background-color: #add8e6;
 }
+header, nav
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 20px;
+}
+.Aik
+{
+    padding-left: 30px;
+}
