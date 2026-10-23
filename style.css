@@ -13,6 +13,29 @@ header, nav
 .aik
 {
     display: flex;
-    text-align: center;
+    text-align:center;
     flex-direction: column;
+    width: 33%;
+    float: left;
+}
+.dif
+{
+    display: flex;
+    text-align:center;
+    flex-direction: column;
+    width: 33%;
+    float: middle;   
+}
+.hif
+{
+    display: flex;
+    text-align:center;
+    flex-direction: column;
+    width: 33%;
+    float: right;   
+}
+footer
+{
+    text-align: center;
+    flex-direction: column-reverse;
 }
